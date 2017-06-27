@@ -8,6 +8,56 @@ It can:
 
 <https://github.com/Lin-Buo-Ren/Fontconfig-Setup-for-Adobe-Source-Han-and-Google-Noto-Fonts>
 
+## Font Family Names
+### Super OTC
+All locales and font weights packed in one and only one file
+
+* Sans-serif
+    * Source Han Sans
+    * Noto CJK Sans
+* Serif
+    * Source Han Serif
+    * Noto CJK Serif
+
+## Language-specific OpenType/CFF (OTF)
+Complete glyphs for every locale, only the default locale is set differently.  Font weights are separated in different files
+
+* TC
+    * Source Han Serif TC
+    * Noto Serif CJK TC
+* SC
+    * Source Han Serif SC
+    * Noto Serif CJK SC
+* JP
+    * Source Han Serif JP
+    * Noto Serif CJK JP
+* KR
+    * Source Han Serif KR
+    * Noto Serif CJK KR
+
+## OpenType/CFF Collection (OTC)
+Similar as "Language-specific OpenType/CFF", but packed all font weights in the same file
+
+Font family names be same as Language-specific OpenType/CFF (OTF)
+
+## Region-specific Subset OpenType/CFF (Subset OTF)
+Only contain glyphs of a locale.  Font weights are separated in different files
+
+* TW
+    * Source Han Serif TW
+    * Noto Serif TC
+* CN
+    * Source Han Serif CN
+    * Noto Serif SC
+* JP
+    * Source Han Serif JP
+    * Noto Serif JP
+* KR
+    * Source Han Serif KR
+    * Noto Serif KR
+
+Note the difference of naming in Google Noto fonts variants
+
 ## 原作者<br>Original Author
 林博仁 &lt;<Buo.Ren.Lin@gmail.com>&gt;
 
