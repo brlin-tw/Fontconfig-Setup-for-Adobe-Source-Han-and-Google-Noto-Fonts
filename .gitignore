@@ -1,0 +1,16 @@
+# Version Tracking Ignore Rules for Git VCS
+# https://git-scm.com/docs/gitignore
+
+## Do track Git settings
+!.git*
+
+## Font filename extension
+*.otf
+*.ttc
+
+## Font archive filename extension
+*.zip
+
+## Font docs
+README
+LICENSE_OFL.txt
