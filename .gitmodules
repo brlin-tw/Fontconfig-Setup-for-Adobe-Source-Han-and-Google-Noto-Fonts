@@ -10,3 +10,6 @@
 [submodule "Clean Filter for XML"]
 	path = Clean Filter for XML
 	url = https://github.com/Lin-Buo-Ren/Clean-Filter-for-XML.git
+[submodule "Utilities for Travis CI"]
+	path = Utilities for Travis CI
+	url = http://github.com/Lin-Buo-Ren/Utilities-for-Travis-CI
