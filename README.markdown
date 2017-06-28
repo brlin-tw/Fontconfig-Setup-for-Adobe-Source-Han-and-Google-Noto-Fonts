@@ -4,7 +4,7 @@ These are the Fontconfig rules that make Adobe Source Han fonts and Google Noto 
 It can:
 
 * Make Adobe Source Han fonts considered equal as their Google Noto * CJK equivalent
-* Make subset otf fonts considered equal as (Super )OTC fonts(which has different font family name)
+* Make subset otf fonts considered equal as (Super )OTC fonts(which has different font family name)(not implemented yet)
 
 <https://github.com/Lin-Buo-Ren/Fontconfig-Setup-for-Adobe-Source-Han-and-Google-Noto-Fonts>
 
