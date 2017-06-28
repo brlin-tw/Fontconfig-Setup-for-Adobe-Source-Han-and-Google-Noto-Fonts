@@ -7,3 +7,6 @@
 [submodule "GNU Bash Automatic Checking Program for Git Projects"]
 	path = GNU Bash Automatic Checking Program for Git Projects
 	url = https://github.com/Lin-Buo-Ren/GNU-Bash-Automatic-Checking-Program-for-Git-Projects.git
+[submodule "Clean Filter for XML"]
+	path = Clean Filter for XML
+	url = https://github.com/Lin-Buo-Ren/Clean-Filter-for-XML.git
